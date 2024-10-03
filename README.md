@@ -12,20 +12,8 @@
 6. **Poseidon Release**: Deploy on App Store and Google Play.
 7. **Project Conclusion**: Conduct peer and self-assessments.
 
-## Features
-- Real-time push notifications
-- Emergency panic button for quick assistance
-- Cross-platform (iOS/Android) development
-- 2G/3G network compatibility
-
 ## Project Managers
 - **U. Justin Mukwevho** - ST10101766
 - **Tsolofelo T. Noko**  - ST10359970
 
-## Developers
-- **UI/UX Developer**: Designs and implements user-friendly interfaces.
-- **Backend Developer**: Develops the database and server-side logic.
-- **Tester**: Ensures the app functions optimally across platforms.
 
-## Legal
-- This entire project is free and open source under MIT License 
